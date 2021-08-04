@@ -26,3 +26,7 @@
     - Computer vision research - difference in math understanding, note on linear algebra and matrices
   - handful of cool computer vision projects - a showcase
   - Exercises and resources for those who want to experiment more
+
+# references
+
+- https://colab.research.google.com/github/xn2333/OpenCV/blob/master/Image_Processing_in_Python_Final.ipynb
