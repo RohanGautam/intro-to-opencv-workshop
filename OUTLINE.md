@@ -30,3 +30,4 @@
 # references
 
 - https://colab.research.google.com/github/xn2333/OpenCV/blob/master/Image_Processing_in_Python_Final.ipynb
+- Adrian Rosebrock - Practical Python and OpenCV
