@@ -20,6 +20,7 @@
     - Rotation
   - Image arithmetic _(10 mins)_
   - Masking _(10 mins)_
+- Mini project - Counting coins!!!
 - Moving foward _(20 mins)_
   - Levels of computer vision abstraction
     - Preprocessing for basic deep learning : use libraries, no math needed
